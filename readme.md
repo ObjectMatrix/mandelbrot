@@ -1,4 +1,4 @@
-## Mandelbrot
+## Mandelbrot whta's going on inside  [-1 and 1]
 
 
 Well, let’s take 2 and see the sequence.
