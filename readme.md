@@ -18,6 +18,6 @@ And negative numbers immediately turn positive and follow the same sequences.
 
 So, we can see that any number between -1 and 1 (inclusive) will not go to infinity, and any number greater than 1 or smaller than -1 will. The closer it is to 1 when it starts, the slower it will move away from 1.
 
-Now, imagine we are talking about 2D numbers. Technically we are not talking about vectors, but for now don’t worry about how they work, just see them as x and y pairs.
+Now, imagine we are talking about 2D numbers (complex numbers). Technically we are not talking about vectors, but for now don’t worry about how they work, just see them as x and y pairs.
 
 A 2D version of the above gives us a circle with radius 1, within which the 2D numbers decay to zero, and outside numbers shoot off to the infinite borders.
