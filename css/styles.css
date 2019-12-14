@@ -1,0 +1,12 @@
+div *
+{
+   font-size: 1.0em !important;
+   color: #000 !important;
+   font-family: "Arial" !important;
+}
+
+
+p span 
+{
+  display: block;
+}
